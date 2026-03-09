@@ -1,0 +1,30 @@
+
+> auralex-studio-website@1.0.0 dev
+> next dev --hostname 0.0.0.0 --port 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.6s
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 5.4s (761 modules)
+ GET /_next/static/webpack/5a215e4af172f3f3.webpack.hot-update.json 404 in 5660ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 6818ms
+ GET / 200 in 71ms
+ ○ Compiling /privacy-policy ...
+ ✓ Compiled /privacy-policy in 532ms (769 modules)
+ GET / 200 in 622ms
+ GET /terms-of-use 200 in 648ms
+ GET /privacy-policy 200 in 502ms
+ GET / 200 in 49ms
+ GET /privacy-policy 200 in 32ms
+ GET / 200 in 40ms
+ GET / 200 in 115ms
+ GET / 200 in 35ms
+ GET / 200 in 44ms
+ GET / 200 in 48ms
+ GET / 200 in 48ms
+ GET / 200 in 48ms
